@@ -1,0 +1,4483 @@
+<!--
+  ~ Copyright (c) 2018 LINE Corporation. All rights reserved.
+  ~ LINE Corporation PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+  -->
+
+<!DOCTYPE html>
+<html lang="zh-Hant" data-lang="zh-Hant">
+<head>
+  
+    
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1" />
+  <title>公主病莎莉 – LINE貼圖 | LINE STORE</title>
+  <meta name="description" content="小公主莎莉的公主病
+※此貼圖為「大家一起製作BROWN &amp; FRIENDS！活動」的參加貼圖" />
+  <meta name="format-detection" content="telephone=no" />
+
+    
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="公主病莎莉 – LINE貼圖 | LINE STORE" />
+  <meta property="og:url" content="https://store.line.me/stickershop/product/23209716/zh-Hant" />
+  <meta property="og:description" content="小公主莎莉的公主病
+※此貼圖為「大家一起製作BROWN &amp; FRIENDS！活動」的參加貼圖" />
+  <meta property="og:site_name" content="LINE STORE" />
+
+  <meta property="og:locale" content="zh_TW" />
+  <meta property="og:locale:alternative"
+        content="ja_JP" /><meta property="og:locale:alternative"
+        content="ja_KS" /><meta property="og:locale:alternative"
+        content="en_GB" /><meta property="og:locale:alternative"
+        content="zh_MO" /><meta property="og:locale:alternative"
+        content="zh_TW" /><meta property="og:locale:alternative"
+        content="en_US" /><meta property="og:locale:alternative"
+        content="id_ID" /><meta property="og:locale:alternative"
+        content="th_TH" /><meta property="og:locale:alternative"
+        content="en_PI" /><meta property="og:locale:alternative"
+        content="ko_KR" /><meta property="og:locale:alternative"
+        content="zh_HK" /><meta property="og:locale:alternative"
+        content="en_UD" /><meta property="og:locale:alternative"
+        content="pt_BR" /><meta property="og:locale:alternative"
+        content="en_IN" />
+  
+    
+    
+      <meta property="og:image" content="https://stickershop.line-scdn.net/stickershop/v1/product/23209716/LINEStorePC/main.png?v=1" />
+      <meta name="twitter:image" content="https://stickershop.line-scdn.net/stickershop/v1/product/23209716/LINEStorePC/main.png?v=1" />
+    
+    
+  
+  <meta name="twitter:title" content="公主病莎莉 – LINE貼圖 | LINE STORE" />
+  <meta name="twitter:description" content="小公主莎莉的公主病
+※此貼圖為「大家一起製作BROWN &amp; FRIENDS！活動」的參加貼圖" />
+  <meta name="twitter:card" content="summary">
+
+    
+  <link rel="canonical" href="https://store.line.me/stickershop/product/23209716/zh-Hant">
+  <link rel="alternate" hreflang="ja" href="https://store.line.me/stickershop/product/23209716/ja"/><link rel="alternate" hreflang="en" href="https://store.line.me/stickershop/product/23209716/en"/><link rel="alternate" hreflang="zh-Hant" href="https://store.line.me/stickershop/product/23209716/zh-Hant"/><link rel="alternate" hreflang="ko" href="https://store.line.me/stickershop/product/23209716/ko"/><link rel="alternate" hreflang="th" href="https://store.line.me/stickershop/product/23209716/th"/><link rel="alternate" hreflang="id" href="https://store.line.me/stickershop/product/23209716/id"/><link rel="alternate" hreflang="pt-BR" href="https://store.line.me/stickershop/product/23209716/pt-BR"/><link rel="alternate" hreflang="x-default" href="https://store.line.me/stickershop/product/23209716"/>
+
+    
+  
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="application-name" content="LINE STORE" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="LINE STORE" />
+  
+
+    
+  <link rel="apple-touch-icon" sizes="228x228"
+        href="https://scdn.line-apps.com/n/line_store_sp/img/apple_touch_icon_228_20160805.png" />
+  <link rel="apple-touch-icon-precomposed"
+        href="https://scdn.line-apps.com/n/line_store_sp/img/apple_touch_icon_144_20160805.png" />
+  <link rel="icon" sizes="192x192" type="image/png"
+        href="https://scdn.line-apps.com/n/line_store_sp/img/apple_touch_icon_192_20160805.png" />
+  <link rel="shortcut icon" type="image/x-icon"
+        href="https://scdn.line-apps.com/n/line_store_sp/img/favicon_20160805.ico" />
+
+    
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "23209716",
+    "url": "https://store.line.me/stickershop/product/23209716/zh-Hant",
+    
+    "name": "\u516C\u4E3B\u75C5\u838E\u8389",
+    "description": "\u5C0F\u516C\u4E3B\u838E\u8389\u7684\u516C\u4E3B\u75C5\n\u203B\u6B64\u8CBC\u5716\u70BA\u300C\u5927\u5BB6\u4E00\u8D77\u88FD\u4F5CBROWN & FRIENDS\uFF01\u6D3B\u52D5\u300D\u7684\u53C3\u52A0\u8CBC\u5716",
+    "image": "https://stickershop.line-scdn.net/stickershop/v1/product/23209716/LINEStorePC/main.png?v=1",
+    
+    "offers": {
+      "@type": "Offer",
+      "price": "60",
+      "priceCurrency": "TWD",
+      "url": "https://store.line.me/stickershop/product/23209716/zh-Hant"
+      
+      ,"seller": {
+         "@type": "Organization",
+         "name": "gulugulu",
+         "url": "https://store.line.me/stickershop/author/3921657/zh-Hant"
+      }
+      
+    }
+    
+    
+  }
+</script>
+
+
+  
+  
+  
+    
+      
+    
+  
+
+  <link href="https://static.line-scdn.net/laicon/edge/8.0/laicon.min.css" rel="stylesheet" crossorigin="anonymous" defer/>
+  <link rel="stylesheet" crossorigin="anonymous" href="https://static.line-scdn.net/line_store/18ecf6dcc15/pc/css/line_store_pc.css"/>
+  
+  <link rel="stylesheet" crossorigin="anonymous" href="https://static.line-scdn.net/line_store/edge/store/main.2e6ede33.min.css" />
+
+</head>
+<body class="ExOsMac">
+<div class="LyWrap">
+  
+  
+  <div id="header-banner-root"></div>
+
+  <header class="LyHead">
+  <h1 class="MdGHD01Logo">
+    <a href="/home/zh-Hant">LINE STORE</a>
+  </h1>
+  
+  <div class="MdGHD02Search" data-widget="SearchBox">
+    <form method="GET" action="/search/zh-Hant">
+      <span class="MdIcoSearch01 FnSearchIcon" data-test="search-icon"></span>
+      <span></span>
+      <input class="FnSearchInput" data-test="search-field" type="text" name="q" placeholder="搜尋" value="" />
+    </form>
+  </div>
+  <ul class="MdGHD03Util">
+    <li class="mdGHD03Li">
+      <a href="/notice/list/zh-Hant">
+        <span class="MdIcoNew04"></span><span>最新資訊</span>
+      </a>
+      <span class="mdGHD03Line">|</span>
+    </li>
+    <li class="mdGHD03Li" data-test="wishlist-btn">
+      <div class="MdLYR01Box mdLYR01WLTop" data-widget-plugin="DisableTouchScroll" data-widget="TutorialModalWindow" data-feature-type="WISHLIST_TUTORIAL_PC_HOME" style="display: none">
+        <div class="MdLYR02Body mdLYR02WLTop">
+          <a class="mdLYR02Close FnModalWindowClose" href="javascript:;"><span class="MdBtnClose01">關閉</span></a>
+          <div class="MdLYR10Notice mdLYR10WL">
+            <div class="mdLYR10Txt">
+              <h2 class="mdLYR10Ttl" data-test="wishlist-tutorial-title">快來用看看願望清單吧！</h2>
+              <p class="mdLYR10Desc01" data-test="wishlist-tutorial-description">只要在貼圖或主題的頁面中，點選<em>♡按鍵</em>，就能不斷將自己喜歡的項目加到願望清單中喔！
+點選首頁的<em>♡按鍵</em>，即可確認願望清單。</p>
+              <!--/mdLYR10Txt--></div>
+            <!--/MdLYR10Notice--></div>
+        </div>
+        <!--/MdLYR01Box--></div>
+      <a href="/wishlist/zh-Hant"><span class="MdIcoWishlist01"></span><span>願望清單</span></a>
+      <span class="mdGHD03Line">|</span>
+    </li>
+    
+    
+    <li class="mdGHD03Li" data-test="login-btn"><a href="/login/zh-Hant?url=%2Fstickershop%2Fproduct%2F23209716%2Fzh-Hant" rel="nofollow">登入</a></li>
+  </ul>
+</header>
+  
+  
+  <div class="LyContents MdCF">
+    
+    <div class="LySub">
+  <nav class="MdSB06Nav" role="navigation">
+    
+    <ul>
+      <li class="title flexVerticalCenter">
+        <i class="lar la-smile"></i>
+        <span>貼圖</span>
+      </li>
+      <li>
+        <a class="flexVerticalCenter"
+           href="/stickers-premium/landing/zh-Hant">
+            <span data-event-category="sticker"
+                  data-event-label="Premium"
+                  data-event-action="click_premium_sidemenu_PC">LINE貼圖超值方案</span>
+          <img src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" height="14" alt="" style="margin-left: 10px;" />
+        </a>
+      </li>
+      
+        
+        
+      
+        
+        
+      
+        <li data-test="stickershop-side-menu-item">
+          <a href="/stickershop/home/general/zh-Hant"
+             data-event-category="common"
+             data-event-action="click_menu_sticker_pc">官方貼圖</a>
+        </li>
+        
+      
+        
+        <li data-test="creators-stickershop-side-menu-item" class="ExSelected">
+          <a href="/stickershop/home/user/zh-Hant"
+             data-event-category="common"
+             data-event-action="click_menu_cm-sticker_pc">個人原創貼圖</a>
+        </li>
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    </ul>
+    <hr>
+    <ul>
+      <li class="title flexVerticalCenter">
+        <i class="labr la-line-friends"></i>
+        <span>表情貼</span>
+      </li>
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        <li data-test="emojishop-side-menu-item">
+          <a href="/emojishop/home/general/zh-Hant"
+             data-event-category="common"
+             data-event-action="click_menu_emoji_pc">官方表情貼</a>
+        </li>
+        
+      
+        
+        <li data-test="creators-emojishop-side-menu-item">
+          <a href="/emojishop/home/creators/zh-Hant"
+             data-event-category="common"
+             data-event-action="click_menu_cs-emoji_pc">個人原創表情貼</a>
+        </li>
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    </ul>
+    <hr>
+    <ul>
+      <li class="title flexVerticalCenter">
+        <i class="lar la-brush"></i> <span>主題</span>
+      </li>
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        <li data-test="themeshop-side-menu-item">
+          <a href="/themeshop/home/zh-Hant"
+             data-event-category="common"
+             data-event-action="click_menu_theme_pc">官方主題</a>
+        </li>
+        
+      
+        
+        <li data-test="creators-themeshop-side-menu-item">
+          <a href="/themeshop/home/creators/zh-Hant"
+             data-event-category="common"
+             data-event-action="click_menu_cs-theme_pc">個人原創主題</a>
+        </li>
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    </ul>
+    <hr>
+    <ul data-test="side-menu">
+      <li class="title flexVerticalCenter">
+        <i class="labr la-line-messenger-alt"></i>
+        <span>LINE服務</span>
+      </li>
+      
+        
+        
+        
+        
+        
+        
+        
+      
+        
+        
+        
+        
+        
+        
+        
+      
+        
+        
+        
+        
+        
+        
+        
+      
+        
+        
+        
+        
+        
+        
+        
+      
+        
+        
+        
+        
+        
+        
+        
+      
+        
+        
+        
+        
+        
+        
+        
+      
+        
+        
+        
+        
+        
+        
+        
+      
+        
+        
+        
+        
+        
+        
+        
+      
+        <li data-test="mangashop-side-menu-item">
+          <a class="flexVerticalCenter" href="/naver/webtoon/zh-Hant">
+            <i class="labr la-line-webtoon"></i>
+            <span data-event-category="common"
+                  data-event-action="click_menu_webtoon_pc">WEBTOON</span>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+      
+        
+        
+        <li data-test="gameshop-side-menu-item">
+          <a class="flexVerticalCenter" href="/game/zh-Hant">
+            <i class="labr la-line-faceplay"></i>
+            <span data-event-category="common"
+                  data-event-action="click_menu_game_pc">LINE GAME</span>
+          </a>
+        </li>
+        
+        
+        
+        
+      
+        
+        
+        
+        
+        
+        
+        <li data-test="playshop-side-menu-item">
+          <a class="flexVerticalCenter" href="/family/play/zh-Hant">
+            <i class="labr la-line-play"></i>
+            <span data-event-category="common"
+                  data-event-action="click_menu_play_pc">LINE PLAY</span>
+          </a>
+        </li>
+      
+        
+        
+        
+        
+        
+        
+        
+      
+    </ul>
+    <hr>
+    <ul>
+      <li>
+        <a class="flexVerticalCenter" href="https://help.line.me/webstore/web?lang=zh-Hant">
+          <i class="lar la-question-circle"></i>
+          <span>常見問題</span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+  
+</div>
+    
+    
+    <div class="LyMain" role="main">
+      
+  
+    
+      
+    
+  
+
+      
+      <section class="MdBox03">
+        <div class="mdBox03Inner01">
+          
+          
+          <!-- Movie Button Over-->
+          <div class="MdCMN38EndTop mdCMN38Sticker">
+            
+              
+              
+              
+                
+  <div class="mdCMN38Img"
+       ref="mainImage" data-widget="MainSticker" data-widget-id="MainSticker"
+       data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;23209716&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/product/23209716/LINEStorePC/main.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'>
+    <img class="FnImage"
+         width="230" height="230" src="https://stickershop.line-scdn.net/stickershop/v1/product/23209716/LINEStorePC/main.png?v=1" alt="公主病莎莉" />
+    
+    
+      
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+    
+    <div class="FnPreviewWrapper"></div>
+  </div>
+
+              
+            
+            <ul class="mdCMN38Item01">
+              <div class="mdCMN38Item0lHead">
+                
+                
+                <p class="mdCMN38Item01Ttl" data-test="sticker-name-title">公主病莎莉</p>
+              </div>
+              <a class="mdCMN38Item01Author" data-test="sticker-author" href="/stickershop/author/3921657/zh-Hant">gulugulu</a>
+              <p class="mdCMN38Item01Txt">小公主莎莉的公主病
+※此貼圖為「大家一起製作BROWN &amp; FRIENDS！活動」的參加貼圖</p>
+              <div class="mdCMN38Item01Info" data-test="sticker-price-info">
+                
+                  <p class="mdCMN38Item01Price" data-test="sticker-price">NT$60</p>
+                  
+                
+                <p class="mdCMN38Item01Wish"
+                   onclick="moveToAddWish()">
+                  <label class="MdIco01Wish">
+                    <input type="checkbox" name="" value=""  data-widget="WishCheckbox">
+                    <span class="mdIco01WishTxt" data-test="wish-btn">リストに追加する</span>
+                  </label>
+                </p>
+                <script>/*<![CDATA[*/
+                function moveToAddWish(){
+                  document.location = "\/login\/zh-Hant?url=\/stickershop\/product\/23209716\/wish\/zh-Hant?_csrf%3D9f03186e-cdf7-4ba9-9695-a497054f9304";
+                }
+                /*]]>*/</script>
+              </div>
+              
+  
+
+              
+              
+                <ul class="mdCMN38Item01Ul" data-widget="PurchaseButtons" data-widget-id="PurchaseButtons" data-custom-sticker="CustomSticker">
+                  
+                  
+                    <li>
+                      
+  
+  
+    <button class="MdBtn01P02"
+            data-test="present-btn"
+            data-event-label="sticker_creators"
+            data-widget="LinkButton"
+            data-trigger-target="ModalWindowPresent"
+            data-href="/login/?url=%2Fstickershop%2Fproduct%2F23209716%2Fzh-Hant">贈送禮物</button>
+  
+
+                    </li>
+                    <li>
+                      
+  
+  
+    <button class="MdBtn01P01"
+            data-test="purchase-btn"
+            rel="nofollow"
+            data-event-label="sticker_creators"
+            data-href="/stickershop/payment?packageId=23209716&amp;confirmedPrice=NT%2460"
+            data-win-height="800"
+            data-win-width="815"
+            data-widget="PopUpButton"
+            data-reload="true">購買</button>
+  
+
+                    </li>
+                  
+                </ul>
+              
+              
+              
+              
+              
+              
+            </ul>
+          </div>
+          <div class="MdHLine01"></div>
+          
+            
+            
+            
+              
+  <div class="MdCMN09DetailView mdCMN09Sticker">
+    
+  <div class="mdCMN09Preview">
+    <div class="mdCMN09PreviewTxt" data-test="preview-text">
+      
+        
+  <div data-widget="CreatorDisclaimerAccordion" data-update-user-collapse-disclaimer-api="/api/userdisclaimer/update/zh-Hant" style="margin-bottom: 10px;">
+    <div class="accordion-button" data-collapse-target="#disclaimer" data-test="disclaimer-accordion-button">
+      <span>關於提供給創作者的資訊</span>
+    </div>
+    <p id="disclaimer" data-test="disclaimer">
+      <br>
+      本公司收集相關購買數據以提供販售報告給內容創作者。<br>該販售報告包含購買日期及購買者所註冊的國家或地區，並未包含任何可識別用戶的資訊。
+      
+        <br><br>
+      
+    </p>
+  </div>
+
+      
+      點擊貼圖即可預覽。
+    </div>
+  </div>
+
+    <div class="mdCMN09ImgList"
+         data-widget="StickerPreview"
+         data-is-big="false"
+         data-widget-id="StickerPreview">
+    <div class="MdLoader FnLoading" style="opacity: 0">
+      <div class="mdLoaderInner mdLoaderDetail">
+        <div class="mdLoadSpinner"></div>
+      </div>
+    </div>
+    <div class="MdLoader FnReloadBtn" style="opacity: 0">
+      <div class="mdLoaderInner">
+        <p class="mdLoadReLoad"
+           data-event-label="sticker_creators">重試</p>
+      </div>
+     </div>
+     <div class="mdCMN09ImgListWarp">
+       <ul class="mdCMN09Ul FnStickerList">
+         
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317262&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317262/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317262/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317262/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317262/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317263&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317263/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317263/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317263/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317263/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317264&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317264/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317264/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317264/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317264/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317265&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317265/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317265/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317265/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317265/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317266&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317266/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317266/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317266/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317266/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317267&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317267/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317267/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317267/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317267/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317268&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317268/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317268/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317268/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317268/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317269&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317269/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317269/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317269/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317269/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317270&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317270/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317270/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317270/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317270/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317271&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317271/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317271/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317271/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317271/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317272&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317272/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317272/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317272/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317272/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317273&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317273/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317273/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317273/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317273/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317274&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317274/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317274/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317274/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317274/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317275&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317275/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317275/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317275/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317275/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317276&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317276/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317276/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317276/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317276/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317277&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317277/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317277/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317277/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317277/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317278&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317278/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317278/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317278/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317278/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317279&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317279/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317279/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317279/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317279/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317280&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317280/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317280/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317280/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317280/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317281&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317281/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317281/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317281/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317281/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317282&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317282/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317282/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317282/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317282/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317283&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317283/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317283/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317283/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317283/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317284&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317284/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317284/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317284/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317284/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317285&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317285/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317285/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317285/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317285/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317286&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317286/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317286/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317286/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317286/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317287&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317287/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317287/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317287/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317287/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317288&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317288/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317288/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317288/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317288/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317289&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317289/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317289/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317289/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317289/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317290&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317290/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317290/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317290/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317290/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317291&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317291/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317291/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317291/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317291/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317292&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317292/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317292/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317292/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317292/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+  <li class="mdCMN09Li FnStickerPreviewItem static-sticker "
+      data-preview='{ &quot;type&quot; : &quot;static&quot;, &quot;id&quot; : &quot;591317293&quot;, &quot;staticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317293/android/sticker.png?v=1&quot;, &quot;fallbackStaticUrl&quot; : &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/591317293/android/sticker.png?v=1&quot;, &quot;animationUrl&quot; : &quot;&quot;, &quot;popupUrl&quot; : &quot;&quot;, &quot;soundUrl&quot; : &quot;&quot; }'
+      data-test="sticker-item"
+  >
+    
+    
+    <div class="mdCMN09LiInner FnImage">
+      <span class="mdCMN09Image" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317293/android/sticker.png?v=1);"></span>
+    </div>
+    
+  
+
+    <div class="mdCMN09ImgPreview FnPreviewImage MdNonDisp">
+      <span class="mdCMN09Image FnPreview" style="background-image:url(https://stickershop.line-scdn.net/stickershop/v1/sticker/591317293/android/sticker.png?v=1);"></span>
+      
+  
+
+    </div>
+    
+  </li>
+
+       </ul>
+       <div class="MdOverlay01 FnStickerPreviewOverlay MdNonDisp" style="pointer-events: none;"></div>
+     </div>
+     <div class="FnPreviewWrapper MdNonDisp">
+       <div class="MdOverlay FnOverlay"></div>
+       <div class="MdLYR11Sticker FnPopupCanvasWrapper">
+         <div class="mdLYR11BigImg FnImgWrapper MdNonDisp"></div>
+       </div>
+     </div>
+     </div>
+     <p class="mdCMN09Copy">gulugulu © LY Corporation</p>
+     <p class="mdCMN09Txt">
+       <a href="javascript:;"
+          data-widget="EventTrigger"
+          data-event-name="openModalWindow"
+          data-event-target="EnvironmentCaution">注意事項</a>
+       <a href="/report/stickershop/23209716/zh-Hant"
+          data-widget="PopUpButton"
+          data-win-height="760"
+          data-win-width="692"
+          data-reload="true"
+          data-test="report-btn">檢舉</a>
+    </p>
+    <div class="MdCMN22Share">
+  <ul class="mdCMN22ShareUl">
+    <li class="mdCMN22ShareLi">
+      <a href="javascript:;"
+         data-test="line-btn"
+         data-widget="ShareButton"
+         data-type="line_timeline"
+         title="LINE" data-share-text="公主病莎莉 – LINE貼圖 | LINE STORE" data-share-url="https://store.line.me/stickershop/product/23209716/zh-Hant">
+        <span class="mdCMN22ShareLINE">LINE Share</span>
+      </a>
+    </li>
+    <li class="mdCMN22ShareLi">
+      <a href="javascript:;"
+         data-test="twitter-btn"
+         data-widget="ShareButton"
+         data-type="tw"
+         title="X (Twitter)" data-share-text="公主病莎莉 – LINE貼圖 | LINE STORE" data-share-url="https://store.line.me/stickershop/product/23209716/zh-Hant">
+        <span class="mdCMN22ShareTW">X (Twitter) Share</span>
+      </a>
+    </li>
+    <li class="mdCMN22ShareLi">
+      <a href="javascript:;"
+         data-test="facebook-btn"
+         data-widget="ShareButton"
+         data-type="fb"
+         title="Facebook" data-share-text="公主病莎莉 – LINE貼圖 | LINE STORE" data-share-url="https://store.line.me/stickershop/product/23209716/zh-Hant">
+        <span class="mdCMN22ShareFB">Facebook Share</span>
+      </a>
+    </li>
+  </ul>
+  <!--/MdCMN22Share-->
+</div>
+  </div>
+
+            
+          
+        </div>
+        
+          <div class="mdBox03Inner02">
+            <div class="MdHead01">
+              <h2 class="MdTtl02" data-test="other-sticker-title">gulugulu的其他作品</h2>
+            </div>
+            <div class="MdCMN01List">
+              <ul class="mdCMN01Ul" data-test="other-sticker-list">
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/25599354/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="小桃皮打分數">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="小桃皮打分數"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25599354/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">小桃皮打分數</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/25764307/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="炸毛灰灰萌萌噠 修改">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="炸毛灰灰萌萌噠 修改"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25764307/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">炸毛灰灰萌萌噠 修改</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/26208933/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="小桃皮難波萬 修正版">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="小桃皮難波萬 修正版"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26208933/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">小桃皮難波萬 修正版</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/26209164/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="煤炭吉☁︎鈔能力">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="煤炭吉☁︎鈔能力"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26209164/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">煤炭吉☁︎鈔能力</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/26035650/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="鴨白 是個小王八蛋 修正">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="鴨白 是個小王八蛋 修正"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26035650/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">鴨白 是個小王八蛋 修正</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/25743366/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="煤炭吉☁︎菜逼八">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="煤炭吉☁︎菜逼八"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25743366/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">煤炭吉☁︎菜逼八</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/25745517/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="煤炭吉☁︎愛亂嗆 修正">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="煤炭吉☁︎愛亂嗆 修正"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25745517/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">煤炭吉☁︎愛亂嗆 修正</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/26086017/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="小寶包小耍瓜難叭萬">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="小寶包小耍瓜難叭萬"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26086017/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">小寶包小耍瓜難叭萬</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/26035626/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="辣隻雞☀︎ 你不只討人厭">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="辣隻雞☀︎ 你不只討人厭"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26035626/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">辣隻雞☀︎ 你不只討人厭</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/26143176/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="小耍瓜難叭萬">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="小耍瓜難叭萬"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26143176/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">小耍瓜難叭萬</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/25754503/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="小桃皮難波萬 甜滋滋 無文字">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="小桃皮難波萬 甜滋滋 無文字"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25754503/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">小桃皮難波萬 甜滋滋 無文字</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/24053806/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="啪啪熊動滋動 move">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="啪啪熊動滋動 move"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/24053806/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    <span class="MdIcoPlay_s" data-test="animation-sticker-icon">Animation only icon</span>
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">啪啪熊動滋動 move</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/25811856/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="煤炭吉☁︎無話可說">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="煤炭吉☁︎無話可說"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25811856/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">煤炭吉☁︎無話可說</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/26063482/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="小寶包小桃皮難波萬">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="小寶包小桃皮難波萬"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26063482/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">小寶包小桃皮難波萬</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/26380282/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="煤炭吉☁︎說台語 修正">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="煤炭吉☁︎說台語 修正"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26380282/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">煤炭吉☁︎說台語 修正</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/25577373/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="小桃皮好浮誇">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="小桃皮好浮誇"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25577373/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">小桃皮好浮誇</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/25395108/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="vip巧狗☆諧音篇">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="vip巧狗☆諧音篇"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25395108/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">vip巧狗☆諧音篇</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                <li class="mdCMN01Li">
+                  <a href="/stickershop/product/26030933/zh-Hant?from=sticker"
+                     data-event-category="sticker"
+                     data-event-label="author"
+                     data-event-action="click_other_product"
+                     title="煤炭吉☁︎管好你的嘴">
+                    <div class="MdCMN07Item mdCMN07Sticker">
+                      <div class="mdCMN07Img" data-test="other-sticker-img">
+                        
+  
+  <img height="60"
+       width="60"
+       alt="煤炭吉☁︎管好你的嘴"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26030933/LINEStorePC/main.png?v=1" />
+
+
+                        
+                        
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                        
+                      </div>
+                      
+  <div class="mdCMN07Txt">
+    
+  
+  
+  
+
+    <h3 class="mdCMN07Ttl" data-test="other-author-name">煤炭吉☁︎管好你的嘴</h3>
+  </div>
+
+                    </div>
+                  </a>
+                  
+                </li>
+                
+              </ul>
+            </div>
+          </div>
+        
+      </section>
+      
+        <div class="MdHLine01"></div>
+        <div class="MdHead01 mdHead01Space01">
+          <h3 class="MdTtl01">相似的貼圖</h3>
+        </div>
+        <div class="MdCMN02List FnRelatedSticker">
+          <ul class="mdCMN02Ul">
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/26375743/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="小雞在幹嘛" data-index="0">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="小雞在幹嘛"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26375743/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25496269/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="伊比鴨鴨★小公主駕到～" data-index="1">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="伊比鴨鴨★小公主駕到～"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25496269/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/26113263/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="Misa耍笨動動貼 12" data-index="2">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="Misa耍笨動動貼 12"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26113263/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    <span class="MdIcoPlay_m" data-test="animation-sticker-icon">Animation only icon</span>
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23108745/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="莎莉小辣椒★不是沒禮貌! 是個性比較直!" data-index="3">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="莎莉小辣椒★不是沒禮貌! 是個性比較直!"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23108745/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/20026347/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="今天無法振作☆莎莉" data-index="4">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="今天無法振作☆莎莉"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/20026347/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25073806/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="愁小鴨 吃飽了莓" data-index="5">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="愁小鴨 吃飽了莓"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25073806/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23257657/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="是莎莉喔" data-index="6">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="是莎莉喔"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23257657/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23308191/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="熊大兔兔的戀愛日常❤︎莎莉篇" data-index="7">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="熊大兔兔的戀愛日常❤︎莎莉篇"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23308191/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/17286460/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="BROWN &amp; FRIENDS之莎莉寶貝們第二彈" data-index="8">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="BROWN &amp; FRIENDS之莎莉寶貝們第二彈"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/17286460/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25739178/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="小雞公主病2" data-index="9">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="小雞公主病2"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25739178/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/24086766/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="小烤鴨戀愛中無字" data-index="10">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="小烤鴨戀愛中無字"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/24086766/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/22985154/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="熊美暈船了！哪次不暈" data-index="11">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="熊美暈船了！哪次不暈"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/22985154/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23109019/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="崩壞的莎莉 我太耀眼" data-index="12">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="崩壞的莎莉 我太耀眼"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23109019/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25902239/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="帶我回家呀✨白色情人節甜蜜用" data-index="13">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="帶我回家呀✨白色情人節甜蜜用"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25902239/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25720779/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="伊比鴨鴨★情侶加分鴨鴨" data-index="14">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="伊比鴨鴨★情侶加分鴨鴨"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25720779/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/24253475/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="人家想要那個!!" data-index="15">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="人家想要那個!!"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/24253475/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25368636/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="本公主可是全人類的寶貝" data-index="16">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="本公主可是全人類的寶貝"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25368636/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/26017644/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="本公主絕不會有錯" data-index="17">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="本公主絕不會有錯"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26017644/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/20253577/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="愛你♡莎莉" data-index="18">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="愛你♡莎莉"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/20253577/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25398386/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="別讓本公主不開心" data-index="19">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="別讓本公主不開心"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25398386/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25592202/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="小企鵝姆姆 戀愛了" data-index="20">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="小企鵝姆姆 戀愛了"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25592202/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/20317046/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="FUNNY SALLY : BROWN &amp; FRIENDS" data-index="21">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="FUNNY SALLY : BROWN &amp; FRIENDS"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/20317046/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    <span class="MdIcoPlay_m" data-test="animation-sticker-icon">Animation only icon</span>
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25660913/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="伊比鴨鴨★情侶扣分鴨鴨" data-index="22">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="伊比鴨鴨★情侶扣分鴨鴨"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25660913/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/20888136/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="莎莉疊字超煩人" data-index="23">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="莎莉疊字超煩人"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/20888136/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23300785/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="莎莉不開心!" data-index="24">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="莎莉不開心!"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23300785/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23195062/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="莎莉 ❤️ 今晚早點睡...嗎?" data-index="25">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="莎莉 ❤️ 今晚早點睡...嗎?"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23195062/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/19862230/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="強烈無力的莎莉" data-index="26">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="強烈無力的莎莉"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/19862230/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25125280/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="鴨鴨小黃呱★聖誕金勾杯鴨★" data-index="27">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="鴨鴨小黃呱★聖誕金勾杯鴨★"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25125280/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25451108/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="愁小鴨我是小公舉" data-index="28">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="愁小鴨我是小公舉"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25451108/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/22616407/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="煩人的莎莉" data-index="29">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="煩人的莎莉"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/22616407/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23299148/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="莎莉 ❤️ 你是離職了沒" data-index="30">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="莎莉 ❤️ 你是離職了沒"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23299148/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23286199/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="莎莉不想努力2(草稿風味)" data-index="31">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="莎莉不想努力2(草稿風味)"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23286199/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/22536392/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="兔兔的情緒勒索" data-index="32">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="兔兔的情緒勒索"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/22536392/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/26240108/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="夫妻甜蜜對話框（老婆版）" data-index="33">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="夫妻甜蜜對話框（老婆版）"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26240108/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/16425812/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="伸縮自如的雞與鴨 特別篇xBROWN &amp; FRIENDS" data-index="34">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="伸縮自如的雞與鴨 特別篇xBROWN &amp; FRIENDS"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/16425812/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/21455592/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="生氣也可愛的小小莎莉動態貼圖" data-index="35">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="生氣也可愛的小小莎莉動態貼圖"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/21455592/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    <span class="MdIcoPlay_m" data-test="animation-sticker-icon">Animation only icon</span>
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25474483/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="小雞大掃除" data-index="36">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="小雞大掃除"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25474483/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/22680026/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="莎莉罷工-【左手篇02】職場實用貼圖" data-index="37">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="莎莉罷工-【左手篇02】職場實用貼圖"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/22680026/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/22526420/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="崩壞的莎莉 越派我越愛" data-index="38">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="崩壞的莎莉 越派我越愛"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/22526420/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/21161444/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="BROWN &amp; FRIENDS-Cony兔兔愛起來3" data-index="39">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="BROWN &amp; FRIENDS-Cony兔兔愛起來3"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/21161444/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23104723/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="莎莉3 動態❤ 新春萌萌篇" data-index="40">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="莎莉3 動態❤ 新春萌萌篇"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23104723/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    <span class="MdIcoPlay_m" data-test="animation-sticker-icon">Animation only icon</span>
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/22317049/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="移動 LINE Friends（莎莉）" data-index="41">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="移動 LINE Friends（莎莉）"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/22317049/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    <span class="MdIcoPlay_m" data-test="animation-sticker-icon">Animation only icon</span>
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/24698924/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="伊比鴨鴨★根本洗衣板 比豬血糕還糟糕!" data-index="42">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="伊比鴨鴨★根本洗衣板 比豬血糕還糟糕!"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/24698924/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/25110672/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="愁小鴨 就這點料 revised" data-index="43">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="愁小鴨 就這點料 revised"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/25110672/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/20414016/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="逃避現實也無妨☆莉莎" data-index="44">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="逃避現實也無妨☆莉莎"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/20414016/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/22488212/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="對話框上的莎莉 日常實用篇" data-index="45">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="對話框上的莎莉 日常實用篇"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/22488212/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/20503125/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="最近有點累☆莎莉" data-index="46">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="最近有點累☆莎莉"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/20503125/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/26311959/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="伊比鴨鴨★憨憨一笑" data-index="47">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="伊比鴨鴨★憨憨一笑"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/26311959/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/23290627/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="躺平莎莉" data-index="48">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="躺平莎莉"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/23290627/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+            <li class="mdCMN02Li">
+              <a href="/stickershop/product/19113077/zh-Hant?from=sticker" class="FnRelatedStickerLink"
+                 title="BROWN &amp; FRIENDS-Sally莎莉小雞的日常" data-index="49">
+              <div class="MdCMN05Item mdCMN05Sticker">
+                
+  
+  <img class="MdIcoPremium_s" src="https://static.line-scdn.net/line_store/1814c5eeaa1/pc/img/common/img_charge_premium.svg" alt="" />
+
+                <div class="mdCMN05Img">
+                  
+  
+  <img height="120"
+       width="120"
+       alt="BROWN &amp; FRIENDS-Sally莎莉小雞的日常"
+       src="https://stickershop.line-scdn.net/stickershop/v1/product/19113077/LINEStorePC/main.png?v=1" />
+
+
+                  
+                    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+                  
+                  
+                </div>
+              </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+      
+      
+      
+    
+      
+  
+    
+      
+    
+  
+
+    </div>
+    
+  </div>
+  
+  
+  
+  <footer class="LyFoot" role="contentinfo" data-test="foot-menu">
+
+      
+    
+    
+    <!-- For TW -->
+    <div class="lyFootInner">
+      <h1 class="MdHide">LINE Taiwan Limited Link</h1>
+      <div class="MdGFT02Link">
+        <ul class="mdGFT02Ul" data-test="tw-foot-menu-ul">
+          <li><a href="/terms/zh-Hant">服務條款</a>
+          </li>
+          <li><a href="https://terms.line.me/line_tw_privacy_policy?lang=zh-Hant"
+                 target="_blank">隱私權政策</a></li>
+          <li><a href="https://terms.line.me/webstore_taiwan_mktpp?lang=zh-Hant">行銷資料提供政策</a></li>
+        </ul>
+      </div>
+      <p class="MdGFT01Copy" data-test="company-name">
+        <small><b>台灣連線股份有限公司　統一編號：24556886</b>&emsp;
+          <b>&copy; LINE Taiwan Limited</b></small>
+      </p>
+    </div>
+
+    
+    
+    
+      
+
+    <div class="MdGFT03Lang">
+      <div class="mdGFT03NewSelect01" data-widget="Select" data-form=".FnLanguageSelectForm">
+        <div class="mdGFT03Label"><span class="mdGFT03LabelTxt" data-test="set-language-txt"></span></div>
+        <ul class="mdGFT03Ul MdHide" style="top: -202px">
+          <li class="mdGFT03Li" data-action="/setLanguage/ja">
+            <a class="mdGFT03Txt">日本語</a>
+          </li>
+          <li class="mdGFT03Li" data-action="/setLanguage/en">
+            <a class="mdGFT03Txt">English</a>
+          </li>
+          <li class="mdGFT03Li" data-action="/setLanguage/zh-Hant"
+              data-selected="true">
+            <a class="mdGFT03Txt">中文(繁體)</a>
+          </li>
+          <li class="mdGFT03Li" data-action="/setLanguage/ko">
+            <a class="mdGFT03Txt">한국어</a>
+          </li>
+          <li class="mdGFT03Li" data-action="/setLanguage/th">
+            <a class="mdGFT03Txt">ภาษาไทย</a>
+          </li>
+          <li class="mdGFT03Li" data-action="/setLanguage/id">
+            <a class="mdGFT03Txt">Bahasa Indonesia</a>
+          </li>
+          <li class="mdGFT03Li" data-action="/setLanguage/pt-BR">
+            <a class="mdGFT03Txt">Português brasileiro</a>
+          </li>
+        </ul>
+        <form class="FnLanguageSelectForm" method="POST"
+              action="/setLanguage/zh-Hant"><input type="hidden" name="_csrf" value="9f03186e-cdf7-4ba9-9695-a497054f9304"/>
+          <input type="hidden" class="FnUrl" name="url" value="/stickershop/product/23209716/zh-Hant" />
+        </form>
+      </div>
+    </div>
+
+  </footer>
+
+  
+  <!-- friend item templates -->
+  <script type="text/template" class="FnPresentFriendTemplate">
+    <tr>
+      <td class="mdLYR08TdImg">
+        <div class="mdLYR08Img"><span class="mdLYR08Shadow"></span><img src="{{imageUrl}}" /></div>
+      </td>
+      <td class="mdLYR08TdTxt">
+        <div class="mdLYR08Txt">{{name}}</div>
+      </td>
+      <td class="mdLYR08TdBtn"><a class="MdBtn05 FnFrindSelectBtn" href="javascript:;"><span
+        class="mdBtn05Inner"><span
+        class="mdBtn05Txt">選擇</span></span></a></td>
+    </tr>
+  </script>
+
+  <!-- templates for radio buttons -->
+  <script type="text/template" class="FnCallPlanRadioTemplate">
+    <li class="mdCMN17Li">
+      <label>
+        <div class="MdIcoRadio01 {{selectedClass}}">
+          <span class="mdIcoRadio01Ico"></span>
+          <input name="type" value="{{id}}" type="radio" data-price="{{displayPrice}}" data-product-id="{{id}}"
+                 data-item-type="{{type}}" />
+        </div>
+        <p class="mdCMN17LiTxt">{{name}}</p>
+      </label>
+    </li>
+  </script>
+  
+
+
+  
+</div>
+
+
+  
+  
+  
+  <div class="MdLYR01Box"
+       data-widget="ModalWindow"
+       data-widget-id="ModalWindowPresent"
+       style="top: 50%; left: 50%; margin-left: -241px; margin-top: -305px; display: none;'">
+    <div class="MdLYR02Body mdLYR02Present"
+         data-widget="PresentFriends"
+         data-package-id="123456"
+         data-friends-api=/api/present/friends/zh-Hant
+         data-skip-template="true"
+         data-win-height="800"
+         data-win-width="815"
+         data-submit-url="/stickershop/payment?packageId=23209716&amp;confirmedPrice=NT%2460"
+         data-to-user-param="toUserMid">
+      <a class="mdLYR02Close FnModalWindowClose"
+         href="javascript:;"><span class="MdBtnClose01">關閉</span></a>
+      <div class="MdLYR03Head">
+        <h1 class="mdLYR03Ttl">選擇好友</h1>
+      </div>
+      <div data-tab-id="0"
+           style="display: none;">
+        <p class="mdLYR02Desc">請選擇要送禮的好友。</p>
+        <div class="MdLYR07Search FnFriendsSearchWrap">
+          <div class="mdLYR07SearchBox">
+            <input class="FnFriendsSearchInput"
+                   type="text"
+                   name=""
+                   id=""
+                   value=""
+                   placeholder="搜尋" /><span
+            class="MdIcoSearch02 FnFriendsSearchBtn"></span>
+          </div>
+          <div class="MdLYR08List">
+            <p class="mdLYR08noR FnFriendsNoResults"
+               style="display: none;">找不到符合條件的資料</p>
+            <table class="mdLYR08Tbl FnFriendsTable"></table>
+          </div>
+        </div>
+      </div>
+      <div data-tab-id="1"
+           style="display: none;">
+        <p class="mdLYR02Desc">請選擇送禮通知的圖樣</p>
+        <div class="MdLYR08List">
+          <ul class="mdLYR08Ul"
+              data-widget="RadioGroup"
+              data-widget-id="presentFriendsRadioGroup">
+            <li class="mdLYR08Li ExSelected">
+              <label></label>
+              <div class="MdIcoRadio02">
+                <label><span class="mdIcoRadio02Ico"></span><input name="presentTemplateId"
+                                                                   value="0"
+                                                                   type="radio"/></label>
+              </div>
+              <label><span class="mdLYR08Img01">For You - Sticker Type 01</span></label>
+            </li>
+            <li class="mdLYR08Li">
+              <label></label>
+              <div class="MdIcoRadio02">
+                <label><span class="mdIcoRadio02Ico"></span><input name="presentTemplateId"
+                                                                   value="1"
+                                                                   type="radio"/></label>
+              </div>
+              <label><span class="mdLYR08Img02">For You - Sticker Type 02</span></label>
+            </li>
+            <li class="mdLYR08Li">
+              <label></label>
+              <div class="MdIcoRadio02">
+                <label><span class="mdIcoRadio02Ico"></span><input name="presentTemplateId"
+                                                                   value="2"
+                                                                   type="radio"/></label>
+              </div>
+              <label><span class="mdLYR08Img03">For You - Sticker Type 03</span></label>
+            </li>
+            <li class="mdLYR08Li">
+              <label></label>
+              <div class="MdIcoRadio02">
+                <label><span class="mdIcoRadio02Ico"></span><input name="presentTemplateId"
+                                                                   value="3"
+                                                                   type="radio"/></label>
+              </div>
+              <label><span class="mdLYR08Img04">For You - Sticker Type 04</span></label>
+            </li>
+          </ul>
+          <div class="mdLYR08Send">
+            <p class="mdLYR08SendTxt">
+              &#x00A0;
+            </p>
+            <div class="mdLYR08SendBtn">
+              <a class="MdBtn01 mdBtn03 FnCancelBtn"
+                 href="javascript:;"><span class="mdBtn01Inner">
+                <span class="mdBtn01Txt">取消</span></span></a>
+              <a class="MdBtn01 mdBtn01 FnSubmitBtn" href="javascript:;">
+                <span class="mdBtn01Inner">
+                  
+                    <span class="mdBtn01Txt">NT$60 購買</span>
+                  
+                  
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="MdLYR01Layer" data-widget="ModalWindow" data-widget-id="EnvironmentCaution" style="display: none;">
+    <div class="mdLYR01Inner">
+      <div class="mdLYR01Body">
+        <div class="MdLYR22Caution">
+          <h3 class="mdLYR22Ttl01">注意事項</h3>
+          <p class="mdLYR22Txt01">適用於iOS、Android的LINE 9.12.0以上版本。</p>
+        </div>
+      </div>
+      <div class="mdLYR01Foot">
+        <button class="mdLYR01Close" data-widget="EventTrigger"
+        data-event-name="closeModalWindow"
+        data-event-target="EnvironmentCaution">關閉</button>
+      </div>
+    </div>
+  </div>
+  
+  
+  <!-- TODO: Add Condition for Movie block -->
+  
+
+  
+  
+
+  
+  <script>/*<![CDATA[*/
+    function pageIsReloaded() {
+      try {
+        const navigationEntries = performance.getEntriesByType("navigation");
+
+        return navigationEntries.length > 0
+               && navigationEntries[0] instanceof PerformanceNavigationTiming
+               && navigationEntries[0].type === 'reload';
+      } catch {
+        // If PerformanceNavigationTiming is unavailable, ignore this method.
+        return false;
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+      // If the page is reloaded, do not send the event.
+      if (pageIsReloaded()) {
+        return;
+      }
+
+      const url = '/api/end-page-reference/send-event';
+
+      const data = {
+        itemType: "STICKER",
+        itemId: "23209716",
+        countryCode: "TW",
+        viewType: "PC",
+        referrer: document.referrer || '',
+      };
+
+      $.ajax({
+        url: url,
+        type: "POST",
+        contentType: "application/json",
+        data: JSON.stringify(data),
+        dataType: "json",
+      });
+    });
+  /*]]>*/</script>
+
+
+
+  
+    <div class="MdOverlay FnOverlay" style="display:none;"></div>
+  
+
+
+  
+
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  //
+  var OPTIONS = {
+    config: {
+      debug: false,
+      pageType: "sticker_improve_detail",
+      staticUrl: "https:\/\/scdn.line-apps.com\/n\/"
+    },
+    // define messages only used in JS
+    messages: {}
+  };
+  OPTIONS.config.wishProduct = {
+    productType: "STICKER",
+    productId: "23209716"
+  };
+  //
+  //]]>
+</script>
+
+  <script>/*<![CDATA[*/
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+    var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-TVHZDL');
+  /*]]>*/</script>
+  <script>
+    OPTIONS.config.env = {
+      storeDomain: "store.line.me",
+      billingDomain: "store-bill.line.me",
+      lineScheme: "line"
+    };
+    OPTIONS.config.assetsUrl = "https:\/\/static.line-scdn.net\/line_store\/";
+    OPTIONS.config.tagNo = "18ecf6dcc15";
+
+    OPTIONS.config.oa = {"friendShip":"UNSPECIFIED","searchId":"linestoretw"};
+
+    OPTIONS.config.userStateModel = {
+      isLoggedIn: false,
+      country: "TW",
+      language: "CHINESE_TRADITIONAL",
+      languageId: "zh-Hant",
+      viewType: "PC",
+      isSmartphone: false,
+      isIOS: false,
+      hasCollapsedUserDisclaimer: false,
+      isPremiumUser: false
+    };
+
+    OPTIONS.config.mypage = {
+      hasNew: {
+        wishlist: false
+      }
+    };
+
+    
+
+    
+    OPTIONS.config.page = {
+      type: "END_PAGE",
+      status: {
+        isPremium: false
+      }
+    }
+    
+
+    dataLayer.push({
+      'user': {
+        isLoggedIn: false,
+        viewType: "PC",
+        displayLanguage: "CHINESE_TRADITIONAL",
+        country: "TW",
+        currencyType: "TWD",
+        deviceModel: {
+          applicationType: "ANONYMOUS",
+          applicationVersion: "ANONYMOUS"
+        },
+      }
+    });
+
+    dataLayer.push({
+      salesInformation: {
+        priceTier: 2,
+        isCreators: true
+      },
+    });
+  </script>
+  
+
+
+  
+  <script>
+    function redirectErrorPage(resourceName) {
+      if (!location.href.includes("load_script_failed")) {
+        var errorPageUrl = "\/error\/load_script_failed\/zh-Hant";
+        location.href = errorPageUrl + "?resourceName=" + resourceName;
+      }
+    }
+  </script>
+
+  
+  <script src="https://static.line-scdn.net/line_store/16909542e95/thrift/thrift.js" crossorigin="anonymous" onerror="redirectErrorPage('thrift')"></script>
+  <script src="https://static.line-scdn.net/line_store/18ecf6dcc15/pc/js/lc.line.store.pc.main.js" crossorigin="anonymous" onerror="redirectErrorPage('pcScript')"></script>
+  
+  <script>
+    window.popups = [];
+  </script>
+
+  
+  <script>
+    window.headerBanners = [];
+  </script>
+
+  
+  
+  <script>
+    window.experimentParams = {"enableStoreCompanyNameChange":true};
+  </script>
+
+  
+  
+
+  <script
+    src="/api/resource/messages.js/zh-Hant?lang=zh-Hant&amp;hash=627a2b101975845bd669469b7ab6a0656f5c92b7"
+    onerror="redirectErrorPage('message')"></script>
+  <script src="https://static.line-scdn.net/line_store/edge/store/vendors~main.687db012.min.js" crossorigin="anonymous"
+          onerror="redirectErrorPage('spaChunckScript')"></script>
+  <script src="https://static.line-scdn.net/line_store/edge/store/main.d5ed19e8.min.js" crossorigin="anonymous" onerror="redirectErrorPage('spaScript')"></script>
+
+
+
+</body>
+</html>

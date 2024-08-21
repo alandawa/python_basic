@@ -1,0 +1,32 @@
+{
+    "apple": {
+        "price": 100,
+        "quantity": 50,
+        "color": [
+            "green",
+            "red"
+        ]
+    },
+    "orange": {
+        "price": 70,
+        "quantity": 30,
+        "color": [
+            "orange"
+        ]
+    },
+    "banana": {
+        "price": 200,
+        "quantity": 50,
+        "color": [
+            "green",
+            "red"
+        ]
+    },
+    "grape": {
+        "price": 70,
+        "quantity": 30,
+        "color": [
+            "purple"
+        ]
+    }
+}
